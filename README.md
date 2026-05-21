@@ -2,7 +2,7 @@
 
 # Gustavo Dums
 
-### Java • Spring Boot • Artificial Intelligence • Backend Developer
+### Estudante de Engenharia de Software
 
 [🇧🇷 Português](README_ptBR.md) • [🇺🇸 English](README.md)
 
