@@ -36,7 +36,7 @@ Estudante de Engenharia de Software • Desenvolvedor Java • IA e Machine Lear
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,linux,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,idea" />
 
 </p>
 
