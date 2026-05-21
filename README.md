@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Gustavo Dums</h1>
 
 <p align="center">
-Estudante de Engenharia de Software • Desenvolvedor Java • IA e Machine Learning
+Estudante de Engenharia de Software 
 </p>
 
 ---
@@ -10,9 +10,10 @@ Estudante de Engenharia de Software • Desenvolvedor Java • IA e Machine Lear
 
 💻 Atualmente estudando:
 - Java
-- Inteligência Artificial
+- Inteligência Artificial com python
 - Redes Neurais
 - Desenvolvimento Backend
+- Desenvolvimento Frontend 
 
 🧠 Projetos principais:
 - Chatbot inteligente para cantina universitária
@@ -21,8 +22,7 @@ Estudante de Engenharia de Software • Desenvolvedor Java • IA e Machine Lear
 - Integrações com Telegram e WhatsApp
 
 🎯 Objetivos:
-- Evoluir como desenvolvedor backend
-- Aprender mais sobre IA e Deep Learning
+- Evoluir como desenvolvedor
 - Criar projetos cada vez mais completos e profissionais
 
 🎮 Interesses:
