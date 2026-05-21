@@ -1,36 +1,59 @@
-# Olá, eu sou Gustavo 👋
+<h1 align="center">Olá 👋, eu sou Gustavo Dums</h1>
 
-## Sobre mim
-
-Sou estudante de Engenharia de Software e desenvolvedor em evolução, com interesse em programação, inteligência artificial, desenvolvimento de sistemas e jogos.
-
-- Atualmente estudando: Java, Python, Inteligência Artificial e desenvolvimento de aplicações
-- Projetos principais: chatbot para cantina universitária, redes neurais e projetos acadêmicos
-- Interesses: carros, games, IA e tecnologia
-- Contato: seu-email-aqui
+<p align="center">
+Estudante de Engenharia de Software • Desenvolvedor Java • IA e Machine Learning
+</p>
 
 ---
 
-## Tecnologias
+## 🚀 Sobre mim
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+💻 Atualmente estudando:
+- Java
+- Inteligência Artificial
+- Redes Neurais
+- Desenvolvimento Backend
+
+🧠 Projetos principais:
+- Chatbot inteligente para cantina universitária
+- IA para Campo Minado usando redes neurais
+- Sistemas em Java com POO
+- Integrações com Telegram e WhatsApp
+
+🎯 Objetivos:
+- Evoluir como desenvolvedor backend
+- Aprender mais sobre IA e Deep Learning
+- Criar projetos cada vez mais completos e profissionais
+
+🎮 Interesses:
+- Games
+- Carros
+- Tecnologia
 
 ---
 
-## Estatísticas
+## 🛠️ Tecnologias
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+<p align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,linux,vscode,idea" />
+
+</p>
 
 ---
 
-## Projetos em destaque
+## 📊 Estatísticas
 
-- Chatbot de Cantina Universitária
-- Rede Neural para Campo Minado
-- Projetos Java com POO
-- Aplicações com Spring Boot e IA
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDums&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDums&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+📧 gustavogdums@gmail.com
