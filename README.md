@@ -101,7 +101,7 @@ SEMPRE APRENDENDO • CONSTRUINDO • EVOLUINDO
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,linux,idea,vscode,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,idea,vscode"/>
 
 </div>
 
