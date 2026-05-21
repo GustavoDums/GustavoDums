@@ -1,29 +1,34 @@
-<h1 align="center">Olá 👋, eu sou Gustavo Dums</h1>
+<div align="center">
 
-<p align="center">
-Estudante de Engenharia de Software 
-</p>
+# Gustavo Dums
+
+### Java • Spring Boot • Artificial Intelligence • Backend Developer
+
+[🇧🇷 Português](README_ptBR.md) • [🇺🇸 English](README.md)
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+# 👨‍💻 Sobre Mim
 
-💻 Atualmente estudando:
+🎓 Estudante de Engenharia de Software
+
+🚀 Atualmente desenvolvendo projetos acadêmicos envolvendo:
+- Inteligência Artificial e Redes Neurais
+- Desenvolvimento Web com HTML, CSS e JavaScript
+- Estrutura de Dados e Testes de Software com Java
+- Aplicações backend e sistemas em Java
+
+☕ Foco principal:
 - Java
-- Inteligência Artificial com python
-- Redes Neurais
-- Desenvolvimento Backend
-- Desenvolvimento Frontend 
+- Backend
+- Frontend
 
-🧠 Projetos principais:
-- Chatbot inteligente para cantina universitária
-- IA para Campo Minado usando redes neurais
-- Sistemas em Java com POO
-- Integrações com Telegram e WhatsApp
-
-🎯 Objetivos:
-- Evoluir como desenvolvedor
-- Criar projetos cada vez mais completos e profissionais
+🚀 Atualmente trabalhando em:
+-  IA para Campo Minado utilizando redes neurais
+-  Sistema para barbearia 
+-  Projeto de Estrutura de Dados e Testes de Software em Java
 
 🎮 Interesses:
 - Games
@@ -32,28 +37,76 @@ Estudante de Engenharia de Software
 
 ---
 
-## 🛠️ Tecnologias
+# 🧠 Linguagens & Tecnologias Core
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,idea" />
-
-</p>
+| Linguagem | Experiência |
+|---|---|
+| Java | Backend • APIs • POO |
+| Python | IA • Machine Learning • Automação |
+| SQL | Banco de Dados |
+| JavaScript | Desenvolvimento Web |
+| C | Lógica & Estruturas |
 
 ---
 
-## 📊 Estatísticas
+# ⚙️ Frameworks & Tecnologias
 
-<p align="center">
+| Tecnologia | Utilização |
+|---|---|
+| TensorFlow | Redes Neurais |
+| Maven | Gerenciamento Java |
+| Git & GitHub | Versionamento |
+| MySQL | Banco de Dados |
+
+---
+
+# 🏆 Projetos em Destaque
+
+| Projeto | Descrição |
+|---|---|
+| 🤖 AI Cafeteria Chatbot | Sistema inteligente de pedidos integrado com IA |
+| 💣 Minesweeper Neural Network | Rede neural para prever jogadas seguras |
+| ☕ Spring Backend Systems | APIs REST e sistemas backend em Java |
+| 📚 Academic Java Projects | Projetos de POO e engenharia de software |
+
+---
+
+# 🎯 Foco Atual
+
+- ☕ Desenvolvimento Backend com Java
+- 💻 Desenvolvimento Web com HTML, CSS e JavaScript
+- 🤖 Projetos acadêmicos envolvendo Inteligência Artificial
+- 📚 Estrutura de Dados e Testes de Software
+- 🚀 Evolução contínua em engenharia de software e desenvolvimento de sistemas
+
+```txt
+SEMPRE APRENDENDO • CONSTRUINDO • EVOLUINDO
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDums&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDums&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-## 📫 Contato
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,linux,idea,vscode,tensorflow"/>
+
+</div>
+
+---
+
+# 🌎 Contato
 
 📧 gustavogdums@gmail.com
