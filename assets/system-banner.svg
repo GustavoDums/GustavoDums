@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Gustavo Dums — System Initializing</title>
+<desc id="desc">Futuristic cyan and violet system dashboard banner</desc>
+<defs>
+  <linearGradient id="back" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset=".6" stop-color="#101727"/><stop offset="1" stop-color="#171027"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#00d9ff"/><stop offset="1" stop-color="#9b6bff"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00d9ff" stroke-opacity=".095" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="320" fill="url(#back)" rx="12"/>
+<rect width="1200" height="320" fill="url(#grid)" rx="12"/>
+<path d="M28 65V27H210M990 27h182v38M28 255v38h182M990 293h182v-38" stroke="url(#accent)" stroke-width="3" fill="none" opacity=".9"/>
+<path d="M85 88H1115M85 238H1115" stroke="#00d9ff" stroke-opacity=".25"/>
+<circle cx="600" cy="157" r="115" fill="none" stroke="#00d9ff" stroke-opacity=".12" stroke-dasharray="8 14"/>
+<circle cx="600" cy="157" r="135" fill="none" stroke="#a476ff" stroke-opacity=".09" stroke-dasharray="3 12"/>
+<text x="86" y="55" font-family="monospace" font-size="15" fill="#00d9ff" letter-spacing="2">GD://IDENTITY.PROTOCOL</text>
+<text x="1115" y="55" text-anchor="end" font-family="monospace" font-size="13" fill="#8b99af">SYS.VERSION 01.0</text>
+<text x="600" y="145" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="62" letter-spacing="5" fill="#eef5ff">GUSTAVO DUMS</text>
+<rect x="334" y="164" width="532" height="2" fill="url(#accent)" opacity=".9"/>
+<text x="600" y="201" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="4" fill="#00d9ff">SOFTWARE ENGINEERING</text>
+<text x="90" y="276" font-family="monospace" font-size="14" fill="#8ba4b7">&gt; BOOT_SEQUENCE</text>
+<text x="265" y="276" font-family="monospace" font-size="14" fill="#bda7ff">INITIALIZING SYSTEM</text>
+<text x="1110" y="276" text-anchor="end" font-family="monospace" font-size="14" fill="#00d9ff">ACCESS GRANTED</text>
+<rect x="86" y="290" width="1028" height="3" fill="#233249"/><rect x="86" y="290" width="1028" height="3" fill="#00d9ff"><animate attributeName="width" values="0;1028;1028" dur="4s" repeatCount="indefinite"/></rect>
+<circle cx="1050" cy="52" r="4" fill="#00d9ff"><animate attributeName="opacity" values="1;.15;1" dur="1.7s" repeatCount="indefinite"/></circle>
+</svg>
